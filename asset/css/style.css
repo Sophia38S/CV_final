@@ -1,0 +1,35 @@
+.bg-verde {
+    background-color: black;
+}
+.imagen1{
+    padding: 10px;
+}
+
+.Antecedentes{
+    text-align: center;
+}
+
+.Datos_Antecedentes {
+    padding: 10px;  
+}
+.Academicos{
+    padding: 10px;
+    text-align: center;
+}
+.Datos_Academicos{
+    padding: 10px;
+}
+.Laborales {
+    text-align: center;
+}
+
+.Datos_Laborales {
+    padding: 10px;
+}
+
+.footer{
+    padding: 5rem;
+    text-align: center;
+    font-size: medium;
+    
+}
